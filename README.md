@@ -9,7 +9,6 @@ Clone this repository onto your computer with
 
 oops
 
+<<<<<<< HEAD
 
 boom
-dylan was here
-testing
